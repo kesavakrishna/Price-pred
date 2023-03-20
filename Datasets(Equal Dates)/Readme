@@ -1,0 +1,5 @@
+ASEAN stock market from 2012-01-04 to 2023-03-15	
+2921 trading days for all the datasets
+Saturdays have been removed in the dataset
+If there is any holiday, the previous days prices get continued
+FTSE Malaysia, FTSE Philippines, FTSE Singapore, Jakarta, Nifty 50, SET Thailand
